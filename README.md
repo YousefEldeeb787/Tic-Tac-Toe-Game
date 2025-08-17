@@ -8,7 +8,7 @@ Interactive GUI with clickable buttons for each cell.
 
 Win/Tie detection to determine game outcomes.
 
-Score tracking for both X and O players.
+Score tracking for both X and O players .
 
 Reset functionality (reset current game or reset all scores).
 
